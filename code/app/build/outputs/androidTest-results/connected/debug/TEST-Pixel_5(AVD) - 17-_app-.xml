@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="2" failures="0" errors="0" skipped="0" time="24.275" timestamp="2026-10-19T03:38:26" hostname="localhost">
+  <testsuite name="com.example.lab_7.FormulaZeroTest" tests="2" failures="0" errors="0" skipped="0" time="20.403" timestamp="2026-10-19T03:38:26" hostname="localhost">
+    <properties>
+      <property name="device" value="Pixel_5(AVD) - 17" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="navigate_to_drivers_add_driver_and_return_home" classname="com.example.lab_7.FormulaZeroTest" time="13.36" />
+    <testcase name="navigate_to_races_add_race_and_return_home" classname="com.example.lab_7.FormulaZeroTest" time="7.043" />
+  </testsuite>
+</testsuites>
